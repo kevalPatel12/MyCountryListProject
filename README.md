@@ -1,2 +1,1 @@
-# MyCountryListProject
-country list project
+# MyCountriesApp
